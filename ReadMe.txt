@@ -1,0 +1,2 @@
+Q = Question
+A = Answer
